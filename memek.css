@@ -1,0 +1,592 @@
+.R8caxQxk{grid-column-end:-1}
+.GjLTqWEy{border:var(--chunkiness-thin) solid var(--color-border-tertiary)}
+.qby4_Jbg{border-bottom-left-radius:var(--roundness-extra-round)}
+.QdikAUbt{border-bottom-right-radius:var(--roundness-extra-round)}
+.FTsMEfrs{border-top-right-radius:var(--roundness-extra-round)}
+.gtQK2jlm{border-top-left-radius:var(--roundness-extra-round)}
+.JS9thi2s{padding-left:var(--spacing-5x)}
+.VJeBM0af{padding-bottom:var(--spacing-5x)}
+.RacFAFVo{padding-right:var(--spacing-5x)}
+.C8LHFU6K{padding-top:var(--spacing-5x)}
+.jjnfNUdM{background-color:var(--color-surface-primary)}
+.ES35fwD6{color:inherit;transition:background-color var(--transition-duration-long) var(--transition-easing-ease-in)}
+.QejAgNG_{display:flex;flex-direction:column;list-style-type:none;margin:0;padding:0;width:100%}
+.rGep5HSU{row-gap:var(--spacing-3x)}
+.QejAgNG_{display:flex;flex-direction:column;list-style-type:none;margin:0;padding:0;width:100%}
+.gktLxQxk{row-gap:var(--spacing-none)}
+.oddFflBz{--icon-size-text-responsive:calc(var(--text-style-body-large-size) * 1.5);font-family:var(--text-style-body-large-family);font-size:var(--text-style-body-large-size);font-weight:var(--text-style-body-large-weight);letter-spacing:var(--text-style-body-large-spacing);line-height:var(--text-style-body-large-height)}
+.Qu5eWXzk{color:var(--color-content-primary)}
+._7yoIykb4{margin:0;padding:0}
+.kFazWTas{align-items:flex-end}
+.LTyNgPJu{display:flex;flex-direction:row;flex-wrap:wrap;list-style-type:none;margin:0;padding:0}
+.exzsVg0t{-moz-column-gap:var(--spacing-none);column-gap:var(--spacing-none)}
+.gktLxQxk{row-gap:var(--spacing-none)}
+.OnKOQ4C1{--icon-size-text-responsive:calc(var(--text-style-title-3-size) * 1.5);font-family:var(--text-style-title-3-family);font-size:var(--text-style-title-3-size);font-weight:var(--text-style-title-3-weight);letter-spacing:var(--text-style-title-3-spacing);line-height:var(--text-style-title-3-height)}
+.Qu5eWXzk{color:var(--color-content-primary)}
+._7yoIykb4{margin:0;padding:0}
+.bweSMvkm{align-items:flex-end}
+.Z8wCehge{display:flex}
+.ES35fwD6{color:inherit;transition:background-color var(--transition-duration-long) var(--transition-easing-ease-in)}
+.oddFflBz{--icon-size-text-responsive:calc(var(--text-style-body-large-size) * 1.5);font-family:var(--text-style-body-large-family);font-size:var(--text-style-body-large-size);font-weight:var(--text-style-body-large-weight);letter-spacing:var(--text-style-body-large-spacing);line-height:var(--text-style-body-large-height)}
+.Qu5eWXzk{color:var(--color-content-primary)}
+._7yoIykb4{margin:0;padding:0}
+.QejAgNG_{display:flex;flex-direction:column;list-style-type:none;margin:0;padding:0;width:100%}
+.akbOyW7N{row-gap:var(--spacing-2x)}
+.l0z8Gogx{display:flex;flex:1;flex-direction:row;flex-wrap:nowrap;list-style-type:none;margin:0;padding:0}
+.otVd74uv{-moz-column-gap:var(--spacing-3x);column-gap:var(--spacing-3x)}
+.rGep5HSU{row-gap:var(--spacing-3x)}
+svg:not(:root){overflow:hidden}
+.CiKgWgb0{height:var(--icon-size-text-responsive)}
+.ovfKxhpl{color:var(--color,currentColor);height:unset;vertical-align:top}
+.oddFflBz{--icon-size-text-responsive:calc(var(--text-style-body-large-size) * 1.5);font-family:var(--text-style-body-large-family);font-size:var(--text-style-body-large-size);font-weight:var(--text-style-body-large-weight);letter-spacing:var(--text-style-body-large-spacing);line-height:var(--text-style-body-large-height)}
+.Qu5eWXzk{color:var(--color-content-primary)}
+._7yoIykb4{margin:0;padding:0}
+.l0z8Gogx{display:flex;flex:1;flex-direction:row;flex-wrap:nowrap;list-style-type:none;margin:0;padding:0}
+.otVd74uv{-moz-column-gap:var(--spacing-3x);column-gap:var(--spacing-3x)}
+.rGep5HSU{row-gap:var(--spacing-3x)}
+svg:not(:root){overflow:hidden}
+.CiKgWgb0{height:var(--icon-size-text-responsive)}
+.ovfKxhpl{color:var(--color,currentColor);height:unset;vertical-align:top}
+svg{height:1em}
+.Mvefxhtu:not(.WtmNb7U5){padding-left:var(--button-x-padding-large);padding-right:var(--button-x-padding-large)}
+.McVQtipP.bUHBy90A,.McVQtipP:active,.McVQtipP:focus-visible,.McVQtipP:hover{background:var(--color-interactive-primary-hover)}
+a:active,a:hover{outline-width:0}
+.vGSJYVYs{width:100%}
+.Mvefxhtu{--icon-size-text-responsive:calc(var(--button-font-size-large) * 1.5);font-size:var(--button-font-size-large);min-height:var(--button-height-large)}
+.McVQtipP{background:var(--color-interactive-primary);color:var(--color-content-interactive)}
+.nr9DhCl_{align-items:center;border:0;border-radius:var(--roundness-subtle);cursor:pointer;display:flex;font-family:var(--button-font-family);font-weight:var(--button-font-weight);gap:var(--spacing-2x);justify-content:center;letter-spacing:var(--button-font-spacing);line-height:var(--button-font-height);padding-bottom:var(--spacing-2x);padding-top:var(--spacing-2x);text-align:center;transition-duration:var(--transition-duration-short);transition-property:background-color,box-shadow,color;transition-timing-function:var(--transition-easing-ease-in-out)}
+.QiKzR1Pj{overflow:hidden}
+.color-scheme-light {
+    --color-always-white: #fff;
+    --color-border-caution: #c24100;
+    --color-border-critical: #b9004b;
+    --color-border-info: #4f5ce8;
+    --color-border-positive: #2e7400;
+    --color-border-primary: #191919;
+    --color-border-promotion: #191919;
+    --color-border-prompt: #191919;
+    --color-border-secondary: #8c8c8c;
+    --color-border-tertiary: #ccc;
+    --color-content-caution-default: #c24100;
+    --color-content-caution-strong: #fff5ed;
+    --color-content-critical-default: #b9004b;
+    --color-content-critical-strong: #ffecf2;
+    --color-content-disabled: #8c8c8c;
+    --color-content-info-default: #4f5ce8;
+    --color-content-info-strong: #f0f1ff;
+    --color-content-interactive: #1a4200;
+    --color-content-inverse: #fff;
+    --color-content-neutral-default: #191919;
+    --color-content-neutral-strong: #fff;
+    --color-content-positive-default: #2e7400;
+    --color-content-positive-strong: #eaffdc;
+    --color-content-primary: #191919;
+    --color-content-primary-accent: #b037a6;
+    --color-content-promotion: #191919;
+    --color-content-secondary: #666;
+    --color-content-primary-accent-inverse: #87e64b;
+    --color-overlay-dark: rgba(25, 25, 25, .7);
+    --color-overlay-light: hsla(0, 0%, 100%, .7);
+    --color-surface-caution-default: #fff5ed;
+    --color-surface-caution-strong: #c24100;
+    --color-surface-critical-default: #ffecf2;
+    --color-surface-critical-strong: #b9004b;
+    --color-surface-elevated: #383838;
+    --color-surface-info-default: #f0f1ff;
+    --color-surface-info-strong: #4f5ce8;
+    --color-surface-interactive-control: #191919;
+    --color-surface-interactive-control-hover: #383838;
+    --color-surface-interactive-control-mask: rgba(25, 25, 25, .7);
+    --color-surface-interactive-disabled: #ccc;
+    --color-surface-interactive-primary: #87e64b;
+    --color-surface-interactive-primary-hover: #6cc832;
+    --color-surface-interactive-secondary: transparent;
+    --color-surface-interactive-secondary-hover: #191919;
+    --color-surface-interactive-tertiary: transparent;
+    --color-surface-interactive-tertiary-hover: #f9f9fb;
+    --color-surface-inverse: #191919;
+    --color-surface-neutral-default: #f9f9fb;
+    --color-surface-neutral-strong: #191919;
+    --color-surface-positive-default: #eaffdc;
+    --color-surface-positive-strong: #2e7400;
+    --color-surface-primary: #fff;
+    --color-surface-promotion: #87e64b;
+    --color-surface-sale: #b037a6;
+    --color-surface-secondary: #fff5ed;
+    --color-surface-table-row-even: #f9f9fb;
+    --color-surface-table-row-hover: #ececee;
+    --color-surface-table-row-odd: #fff;
+    --color-surface-table-head: #fff5ed;
+    --color-surface-tertiary: #ececee;
+    --color-interactive-control: var(--color-surface-interactive-control);
+    --color-interactive-control-hover: var(--color-surface-interactive-control-hover);
+    --color-interactive-disabled: var(--color-surface-interactive-disabled);
+    --color-interactive-primary: var(--color-surface-interactive-primary);
+    --color-interactive-primary-hover: var(--color-surface-interactive-primary-hover);
+    --color-interactive-secondary: var(--color-surface-interactive-secondary);
+    --color-interactive-secondary-hover: var(--color-surface-interactive-secondary-hover);
+    --color-interactive-tertiary: var(--color-surface-interactive-tertiary);
+    --color-interactive-tertiary-hover: var(--color-surface-interactive-tertiary-hover);
+    --color-overlay-interactive: var(--color-overlay-dark);
+    --color-surface-accent: var(--color-surface-tertiary);
+    --color-youtube: #212121;
+    --color-youtube-logo-triangle: #fff;
+    --color-banana-light: #ffd602;
+    --color-banana-dark: #e6c200;
+}
+
+:root {
+    --cover-image-desktop-width: 168px;
+    --cover-image-desktop-height: 116px;
+    --cover-image-mobile-width: 143px;
+    --cover-image-mobile-height: 116px;
+    --grid-image-line-height: var(--font-height-body-large);
+    --grid-image-text-gap: var(--spacing-2x);
+    --grid-title-row-height: 58px;
+}
+:root {
+    --create-workspace-card-z-index: 10;
+}
+
+:root {
+    --breakpoint-medium: 700px;
+    --breakpoint-wide: 1024px;
+    --breakpoint-extra-wide: 1440px;
+    --breakpoint-2k-wide: 2560px;
+    --chunkiness-none: 0px;
+    --chunkiness-thin: 1px;
+    --chunkiness-thick: 2px;
+    --elevation-medium: 0px 2px 12px 0px rgba(0, 0, 0, .15);
+    --blur-popover: 10px;
+    --font-family-body-large: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-body-small: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-campaign-large: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-campaign-small: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-label-large: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-label-small: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-micro: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-subheading: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-title-1: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-title-2: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-title-3: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-title-4: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-height-body-large: 1.5;
+    --font-height-body-small: 1.5;
+    --font-height-campaign-large: 1;
+    --font-height-campaign-small: 1;
+    --font-height-label-large: 1.5;
+    --font-height-label-small: 1.5;
+    --font-height-micro: 1.5;
+    --font-height-subheading: 1.5;
+    --font-height-title-1: 1;
+    --font-height-title-2: 1;
+    --font-height-title-3: 1;
+    --font-height-title-4: 1;
+    --font-size-body-large: 1rem;
+    --font-size-body-small: 0.875rem;
+    --font-size-campaign-large: 4.5rem;
+    --font-size-campaign-small: 2.25rem;
+    --font-size-label-large: 1rem;
+    --font-size-label-small: 0.875rem;
+    --font-size-micro: 0.75rem;
+    --font-size-subheading: 1.125rem;
+    --font-size-title-1: 3rem;
+    --font-size-title-2: 2.25rem;
+    --font-size-title-3: 1.875rem;
+    --font-size-title-4: 1.5rem;
+    --font-spacing-body-large: 0;
+    --font-spacing-body-small: 0;
+    --font-spacing-campaign-large: 0;
+    --font-spacing-campaign-small: 0;
+    --font-spacing-label-large: 0;
+    --font-spacing-label-small: 0.02em;
+    --font-spacing-micro: 0.02em;
+    --font-spacing-subheading: 0;
+    --font-spacing-title-1: 0;
+    --font-spacing-title-2: 0;
+    --font-spacing-title-3: 0;
+    --font-spacing-title-4: 0;
+    --font-weight-body-large: 400;
+    --font-weight-body-small: 400;
+    --font-weight-campaign-large: 700;
+    --font-weight-campaign-small: 700;
+    --font-weight-label-large: 600;
+    --font-weight-label-small: 600;
+    --font-weight-micro: 400;
+    --font-weight-subheading: 600;
+    --font-weight-title-1: 600;
+    --font-weight-title-2: 600;
+    --font-weight-title-3: 600;
+    --font-weight-title-4: 600;
+    --icon-size-1x: 16px;
+    --icon-size-2x: 24px;
+    --icon-size-3x: 32px;
+    --icon-size-4x: 40px;
+    --icon-size-5x: 48px;
+    --icon-size-text-responsive: 1.5em;
+    --min-touch-area: 48px;
+    --roundness-square: 0px;
+    --roundness-subtle: 4px;
+    --roundness-extra-round: 16px;
+    --roundness-circle: 48px;
+    --spacing-1x: 4px;
+    --spacing-2x: 8px;
+    --spacing-3x: 16px;
+    --spacing-4x: 24px;
+    --spacing-5x: 32px;
+    --spacing-6x: 40px;
+    --spacing-7x: 64px;
+    --spacing-8x: 128px;
+    --transition-duration-long: 500ms;
+    --transition-duration-medium: 300ms;
+    --transition-duration-short: 150ms;
+    --transition-easing-linear: 
+cubic-bezier(0, 0, 1, 1);
+    --transition-easing-ease-in: 
+cubic-bezier(0.42, 0, 1, 1);
+    --transition-easing-ease-in-out: 
+cubic-bezier(0.42, 0, 0.58, 1);
+    --transition-easing-ease-out: 
+cubic-bezier(0, 0, 0.58, 1);
+    --transition-easing-bounce: 
+cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+
+:root {
+    --blur-popover: 10px;
+    --breakpoint-medium: 700px;
+    --breakpoint-wide: 1024px;
+    --breakpoint-extra-wide: 1440px;
+    --breakpoint-2k-wide: 2560px;
+    --chunkiness-none: 0px;
+    --chunkiness-thin: 1px;
+    --chunkiness-thick: 2px;
+    --elevation-medium: 0px 2px 12px 0px rgba(0, 0, 0, .15);
+    --font-family-body-large: "PolySans", "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Fira Sans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-body-small: "PolySans", "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Fira Sans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-campaign-large: "PolySans", "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Fira Sans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-campaign-small: "PolySans", "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Fira Sans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-label-large: "PolySans", "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Fira Sans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-label-small: "PolySans", "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Fira Sans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-micro: "PolySans", "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Fira Sans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-subheading: "PolySans", "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Fira Sans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-title-1: "PolySans", "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Fira Sans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-title-2: "PolySans", "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Fira Sans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-title-3: "PolySans", "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Fira Sans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-title-4: "PolySans", "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI", "Fira Sans", "Helvetica Neue", "Arial", sans-serif;
+    --font-height-body-large: 1.5;
+    --font-height-body-small: 1.5;
+    --font-height-campaign-large: 1;
+    --font-height-campaign-small: 1;
+    --font-height-label-large: 1.5;
+    --font-height-label-small: 1.5;
+    --font-height-micro: 1.5;
+    --font-height-subheading: 1.5;
+    --font-height-title-1: 1;
+    --font-height-title-2: 1;
+    --font-height-title-3: 1;
+    --font-height-title-4: 1;
+    --font-size-body-large: 1rem;
+    --font-size-body-small: 0.875rem;
+    --font-size-campaign-large: 4.5rem;
+    --font-size-campaign-small: 2.25rem;
+    --font-size-label-large: 1rem;
+    --font-size-label-small: 0.875rem;
+    --font-size-micro: 0.75rem;
+    --font-size-subheading: 1.125rem;
+    --font-size-title-1: 3rem;
+    --font-size-title-2: 2.25rem;
+    --font-size-title-3: 1.875rem;
+    --font-size-title-4: 1.5rem;
+    --font-spacing-body-large: 0;
+    --font-spacing-body-small: 0;
+    --font-spacing-campaign-large: 0;
+    --font-spacing-campaign-small: 0;
+    --font-spacing-label-large: 0;
+    --font-spacing-label-small: 0.02em;
+    --font-spacing-micro: 0.02em;
+    --font-spacing-subheading: 0;
+    --font-spacing-title-1: 0;
+    --font-spacing-title-2: 0;
+    --font-spacing-title-3: 0;
+    --font-spacing-title-4: 0;
+    --font-weight-body-large: 400;
+    --font-weight-body-small: 400;
+    --font-weight-campaign-large: 700;
+    --font-weight-campaign-small: 700;
+    --font-weight-label-large: 600;
+    --font-weight-label-small: 600;
+    --font-weight-micro: 400;
+    --font-weight-subheading: 600;
+    --font-weight-title-1: 600;
+    --font-weight-title-2: 600;
+    --font-weight-title-3: 600;
+    --font-weight-title-4: 600;
+    --icon-size-1x: 16px;
+    --icon-size-2x: 24px;
+    --icon-size-3x: 32px;
+    --icon-size-4x: 40px;
+    --icon-size-5x: 48px;
+    --icon-size-text-responsive: 1.5em;
+    --minimum-touch-area: 40px;
+    --roundness-square: 0px;
+    --roundness-subtle: 4px;
+    --roundness-extra-round: 16px;
+    --roundness-circle: 48px;
+    --spacing-none: 0px;
+    --spacing-1x: 4px;
+    --spacing-2x: 8px;
+    --spacing-3x: 16px;
+    --spacing-4x: 24px;
+    --spacing-5x: 32px;
+    --spacing-6x: 40px;
+    --spacing-7x: 64px;
+    --spacing-8x: 128px;
+    --transition-duration-long: 500ms;
+    --transition-duration-medium: 300ms;
+    --transition-duration-short: 150ms;
+    --transition-easing-linear: 
+cubic-bezier(0, 0, 1, 1);
+    --transition-easing-ease-in: 
+cubic-bezier(0.42, 0, 1, 1);
+    --transition-easing-ease-in-out: 
+cubic-bezier(0.42, 0, 0.58, 1);
+    --transition-easing-ease-out: 
+cubic-bezier(0, 0, 0.58, 1);
+    --transition-easing-bounce: 
+cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    --button-height-large: 48px;
+    --button-height-medium: 40px;
+    --button-x-padding-large: var(--spacing-4x);
+    --button-x-padding-medium: var(--spacing-3x);
+    --button-font-family: var(--font-family-label-large);
+    --button-font-size-large: var(--font-size-label-large);
+    --button-font-size-medium: var(--font-size-label-small);
+    --button-font-weight: var(--font-weight-label-large);
+    --button-font-height: var(--font-height-label-large);
+    --button-font-spacing: var(--font-spacing-label-large);
+    --layer-depth-ceiling: 9999;
+    --shadow-500: 0px 2px 12px 0px rgba(0, 0, 0, .15);
+    --text-style-body-large-family: var(--font-family-body-large);
+    --text-style-body-large-size: var(--font-size-body-large);
+    --text-style-body-large-spacing: var(--font-spacing-body-large);
+    --text-style-body-large-weight: var(--font-weight-body-large);
+    --text-style-body-large-height: var(--font-height-body-large);
+    --text-style-body-large-strong-weight: 700;
+    --text-style-body-small-family: var(--font-family-body-small);
+    --text-style-body-small-size: var(--font-size-body-small);
+    --text-style-body-small-spacing: var(--font-spacing-body-small);
+    --text-style-body-small-weight: var(--font-weight-body-small);
+    --text-style-body-small-height: var(--font-height-body-small);
+    --text-style-body-small-strong-weight: 700;
+    --text-style-campaign-large-family: var(--font-family-campaign-large);
+    --text-style-campaign-large-size: var(--font-size-campaign-large);
+    --text-style-campaign-large-spacing: var(--font-spacing-campaign-large);
+    --text-style-campaign-large-weight: var(--font-weight-campaign-large);
+    --text-style-campaign-large-height: var(--font-height-campaign-large);
+    --text-style-campaign-small-family: var(--font-family-campaign-small);
+    --text-style-campaign-small-size: var(--font-size-campaign-small);
+    --text-style-campaign-small-spacing: var(--font-spacing-campaign-small);
+    --text-style-campaign-small-weight: var(--font-weight-campaign-small);
+    --text-style-campaign-small-height: var(--font-height-campaign-small);
+    --text-style-chip-family: var(--font-family-body-large);
+    --text-style-chip-spacing: var(--font-spacing-body-large);
+    --text-style-chip-xlarge-size: 1.5rem;
+    --text-style-chip-xlarge-weight: 600;
+    --text-style-chip-xlarge-height: 1;
+    --text-style-chip-large-size: var(--font-size-body-large);
+    --text-style-chip-large-weight: var(--font-weight-body-large);
+    --text-style-chip-large-height: var(--font-height-body-large);
+    --text-style-chip-medium-size: var(--font-size-body-small);
+    --text-style-chip-medium-weight: var(--font-weight-body-small);
+    --text-style-chip-medium-height: var(--font-height-body-small);
+    --text-style-label-large-family: var(--font-family-label-large);
+    --text-style-label-large-size: var(--font-size-label-large);
+    --text-style-label-large-spacing: var(--font-spacing-label-large);
+    --text-style-label-large-weight: var(--font-weight-label-large);
+    --text-style-label-large-height: var(--font-height-label-large);
+    --text-style-label-small-family: var(--font-family-label-small);
+    --text-style-label-small-size: var(--font-size-label-small);
+    --text-style-label-small-spacing: var(--font-spacing-label-small);
+    --text-style-label-small-weight: var(--font-weight-label-small);
+    --text-style-label-small-height: var(--font-height-label-small);
+    --text-style-micro-family: var(--font-family-micro);
+    --text-style-micro-size: var(--font-size-micro);
+    --text-style-micro-spacing: var(--font-spacing-micro);
+    --text-style-micro-weight: var(--font-weight-micro);
+    --text-style-micro-height: var(--font-height-micro);
+    --text-style-subheading-family: var(--font-family-subheading);
+    --text-style-subheading-size: var(--font-size-subheading);
+    --text-style-subheading-spacing: var(--font-spacing-subheading);
+    --text-style-subheading-weight: var(--font-weight-subheading);
+    --text-style-subheading-height: var(--font-height-subheading);
+    --text-style-title-1-family: var(--font-family-title-1);
+    --text-style-title-1-size: var(--font-size-title-1);
+    --text-style-title-1-spacing: var(--font-spacing-title-1);
+    --text-style-title-1-weight: var(--font-weight-title-1);
+    --text-style-title-1-height: var(--font-height-title-1);
+    --text-style-title-2-family: var(--font-family-title-2);
+    --text-style-title-2-size: var(--font-size-title-2);
+    --text-style-title-2-spacing: var(--font-spacing-title-2);
+    --text-style-title-2-weight: var(--font-weight-title-2);
+    --text-style-title-2-height: var(--font-height-title-2);
+    --text-style-title-3-family: var(--font-family-title-3);
+    --text-style-title-3-size: var(--font-size-title-3);
+    --text-style-title-3-spacing: var(--font-spacing-title-3);
+    --text-style-title-3-weight: var(--font-weight-title-3);
+    --text-style-title-3-height: var(--font-height-title-3);
+    --text-style-title-4-family: var(--font-family-title-4);
+    --text-style-title-4-size: var(--font-size-title-4);
+    --text-style-title-4-spacing: var(--font-spacing-title-4);
+    --text-style-title-4-weight: var(--font-weight-title-4);
+    --text-style-title-4-height: var(--font-height-title-4);
+    --transition-base: 0.2s;
+}
+:root {
+    --breakpoint-medium: 700px;
+    --breakpoint-wide: 1024px;
+    --breakpoint-extra-wide: 1440px;
+    --breakpoint-2k-wide: 2560px;
+    --chunkiness-none: 0px;
+    --chunkiness-thin: 1px;
+    --chunkiness-thick: 2px;
+    --elevation-medium: 0px 2px 12px 0px rgba(0, 0, 0, .15);
+    --blur-popover: 10px;
+    --font-family-body-large: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-body-small: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-campaign-large: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-campaign-small: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-label-large: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-label-small: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-micro: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-subheading: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-title-1: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-title-2: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-title-3: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-family-title-4: "PolySans", "Helvetica Neue", "Arial", sans-serif;
+    --font-height-body-large: 1.5;
+    --font-height-body-small: 1.5;
+    --font-height-campaign-large: 1;
+    --font-height-campaign-small: 1;
+    --font-height-label-large: 1.5;
+    --font-height-label-small: 1.5;
+    --font-height-micro: 1.5;
+    --font-height-subheading: 1.5;
+    --font-height-title-1: 1;
+    --font-height-title-2: 1;
+    --font-height-title-3: 1;
+    --font-height-title-4: 1;
+    --font-size-body-large: 1rem;
+    --font-size-body-small: 0.875rem;
+    --font-size-campaign-large: 4.5rem;
+    --font-size-campaign-small: 2.25rem;
+    --font-size-label-large: 1rem;
+    --font-size-label-small: 0.875rem;
+    --font-size-micro: 0.75rem;
+    --font-size-subheading: 1.125rem;
+    --font-size-title-1: 3rem;
+    --font-size-title-2: 2.25rem;
+    --font-size-title-3: 1.875rem;
+    --font-size-title-4: 1.5rem;
+    --font-spacing-body-large: 0;
+    --font-spacing-body-small: 0;
+    --font-spacing-campaign-large: 0;
+    --font-spacing-campaign-small: 0;
+    --font-spacing-label-large: 0;
+    --font-spacing-label-small: 0.02em;
+    --font-spacing-micro: 0.02em;
+    --font-spacing-subheading: 0;
+    --font-spacing-title-1: 0;
+    --font-spacing-title-2: 0;
+    --font-spacing-title-3: 0;
+    --font-spacing-title-4: 0;
+    --font-weight-body-large: 400;
+    --font-weight-body-small: 400;
+    --font-weight-campaign-large: 700;
+    --font-weight-campaign-small: 700;
+    --font-weight-label-large: 600;
+    --font-weight-label-small: 600;
+    --font-weight-micro: 400;
+    --font-weight-subheading: 600;
+    --font-weight-title-1: 600;
+    --font-weight-title-2: 600;
+    --font-weight-title-3: 600;
+    --font-weight-title-4: 600;
+    --icon-size-1x: 16px;
+    --icon-size-2x: 24px;
+    --icon-size-3x: 32px;
+    --icon-size-4x: 40px;
+    --icon-size-5x: 48px;
+    --icon-size-text-responsive: 1.5em;
+    --min-touch-area: 48px;
+    --roundness-square: 0px;
+    --roundness-subtle: 4px;
+    --roundness-extra-round: 16px;
+    --roundness-circle: 48px;
+    --spacing-1x: 4px;
+    --spacing-2x: 8px;
+    --spacing-3x: 16px;
+    --spacing-4x: 24px;
+    --spacing-5x: 32px;
+    --spacing-6x: 40px;
+    --spacing-7x: 64px;
+    --spacing-8x: 128px;
+    --transition-duration-long: 500ms;
+    --transition-duration-medium: 300ms;
+    --transition-duration-short: 150ms;
+    --transition-easing-linear: 
+cubic-bezier(0, 0, 1, 1);
+    --transition-easing-ease-in: 
+cubic-bezier(0.42, 0, 1, 1);
+    --transition-easing-ease-in-out: 
+cubic-bezier(0.42, 0, 0.58, 1);
+    --transition-easing-ease-out: 
+cubic-bezier(0, 0, 0.58, 1);
+    --transition-easing-bounce: 
+cubic-bezier(0.68, -0.55, 0.265, 1.55);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
